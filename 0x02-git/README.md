@@ -1,1 +1,1 @@
-This project is about git and github
+my first update on the web
